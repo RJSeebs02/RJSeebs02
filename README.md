@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
 <h3 align="center">A passionate BSIT Student from the University of St. La Salle</h3>
 
-<img align="right" alt="Coding" width="250" src="https://i.redd.it/wcyvwtvwfvj91.gif">
+<img align="right" alt="Coding" width="200" src="https://i.redd.it/wcyvwtvwfvj91.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjseebs02&label=Profile%20views&color=0e75b6&style=flat" alt="rjseebs02" /> </p>
 
