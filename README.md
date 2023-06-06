@@ -15,8 +15,6 @@
 
 - 💻 I’m currently learning **Java and PHP**
 
-- 📫 **zenenix@gmail.com**
-
 - 🎵 **I love listening to K-Pop songs.**
 
 <h3 align="left">Connect with me:</h3>
