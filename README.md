@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System](https://github.com/RJSeebs02/CareShift) for a hospital
+- 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System](https://github.com/RJSeebs02/CareShift).
 
 - 📝 I’m currently studying at **The University of St. La Salle**
 
