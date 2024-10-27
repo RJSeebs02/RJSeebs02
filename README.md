@@ -9,11 +9,11 @@
 
 
 
-- 👨‍💻 I’m currently working on a [Dormitory Rental Management System](https://github.com/RJSeebs02/Dorm_Rental_System_Salem-Seva)
+- 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System] for a hospital(https://github.com/RJSeebs02/CareShift)
 
 - 📝 I’m currently studying at **The University of St. La Salle**
 
-- 💻 I’m currently learning **Java and PHP**
+- 💻 I’m currently learning **Java, PHP, and Flutter**
 
 - 🎵 **I love listening to K-Pop songs.**
 
