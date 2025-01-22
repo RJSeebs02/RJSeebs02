@@ -7,6 +7,7 @@
 <h3 align="center">Get to know more about me below!</h3>
 
 <br><br>
+<br><br>
 
 <h3>What I do</h3>
 
@@ -14,7 +15,7 @@
 
 - 💻 I also do Frontend but I'm still learning how to be proficient with it
   
-- 📝 I’m currently taking "Bachelor of Science in Information Technology" at **The University of St. La Salle**
+- 📝 I’m currently taking "Bachelor of Science in Information Technology" at [University of St. La Salle](https://www.usls.edu.ph/)
   
 - 🎵 **I love listening to K-Pop songs.**
 
@@ -28,6 +29,21 @@
 - 🗣️ TRANSCENDICATORS Speaker  |  College of Engineering and Computing Studies (CECS) USLS  |  2024 - 2025
 
   - Taught the basics of backend programming to some 1st year BSIT students of USLS.
+<br>
+ 
+- ⚙️ Top 25 Philippine Startup Challenge 8 Participant  |  Department of Information and Communications Technology (DICT)  |  2023 - 2024
+
+  - Participated in the 8th Philippine Startup Challenge held by DICT against other schools in Western Visayas.
+<br>
+ 
+- 👨‍💼 Class Mayor  |  BSIT 3-A USLS  |  2023 - 2024
+
+  - Class mayor of BSIT 3-A 2023-2024.
+<br>
+
+- 👨‍💼 Class Vice Mayor  |  BSIT 2-A USLS  |  2022 - 2023
+
+  - Class vice mayor of BSIT 2-A 2022-2023.
 <br>
 
 <a href="https://github.com/rjseebs02/github-readme-stats">
