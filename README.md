@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjseebs02&label=Profile%20views&color=0e75b6&style=flat" alt="rjseebs02" /> </p>
 
-
+<h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
 
 - 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System](https://github.com/RJSeebs02/CareShift).
 
