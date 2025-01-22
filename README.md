@@ -1,11 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/08/db/2f08dbef53e1e063964fe93a8b190e54.jpg)
 
 <h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
-<h3 align="center">A passionate BSIT Student from the University of St. La Salle</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjseebs02&label=Profile%20views&color=0e75b6&style=flat" alt="rjseebs02" /> </p>
-
-<h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
+<h2>A passionate BSIT Student from the University of St. La Salle</h2>
 
 - 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System](https://github.com/RJSeebs02/CareShift).
 
