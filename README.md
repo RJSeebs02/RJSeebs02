@@ -1,18 +1,41 @@
-![MasterHead](https://webartdevelopers.com/blog/wp-content/uploads/2020/06/css-particles-background.gif)
+<p align="center">
+  <img src="https://i.gifer.com/bJk.gif" alt="MasterHead">
+</p>
 
 <h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
-<h3 align="center">A passionate BSIT Student from the University of St. La Salle</h3>
+<h3 align="center">A passionate graduating BSIT Student from the University of St. La Salle</h3>
+<h3 align="center">Get to know more about me below!</h3>
 
-- 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System](https://github.com/RJSeebs02/CareShift).
+<br><br>
 
-- 📝 I’m currently studying at **The University of St. La Salle**
+<h3>What I do</h3>
 
-- 💻 I’m currently learning **Java, PHP, and Flutter**
+- 👨‍💻 Backend Developer at [Ibento Creatives](https://www.facebook.com/p/IBento-Creatives-61557638287578/)
 
+- 💻 I also do Frontend but I'm still learning how to be proficient with it
+  
+- 📝 I’m currently taking "Bachelor of Science in Information Technology" at **The University of St. La Salle**
+  
 - 🎵 **I love listening to K-Pop songs.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h3>Experiences</h3>
+
+- 💰 Budget & Finance Commissioner  |  Information Technology Society (ITS) USLS  |  2024 - 2025
+
+    - Helped manage the budget of the club especially during events throughout the school year.
+<br>
+ 
+- 🗣️ TRANSCENDICATORS Speaker  |  College of Engineering and Computing Studies (CECS) USLS  |  2024 - 2025
+
+  - Taught the basics of backend programming to some 1st year BSIT students of USLS.
+<br>
+
+<a href="https://github.com/rjseebs02/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjseebs02&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjseebs02&show_icons=true&locale=en&layout=compact" alt="rjseebs02" /></p>
 
