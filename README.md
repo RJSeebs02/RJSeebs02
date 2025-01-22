@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/2f/08/db/2f08dbef53e1e063964fe93a8b190e54.jpg)
+![MasterHead](https://webartdevelopers.com/blog/wp-content/uploads/2020/06/css-particles-background.gif)
 
 <h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
-<h2>A passionate BSIT Student from the University of St. La Salle</h2>
+<h3 align="center">A passionate BSIT Student from the University of St. La Salle</h3>
 
 - 👨‍💻 I’m currently working on an [Automated Nurse Scheduling System](https://github.com/RJSeebs02/CareShift).
 
