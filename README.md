@@ -7,7 +7,6 @@
 <h3 align="center">Get to know more about me below!</h3>
 
 <br><br>
-<br><br>
 
 <h3>What I do</h3>
 
@@ -16,8 +15,18 @@
 - 💻 I also do Frontend but I'm still learning how to be proficient with it
   
 - 📝 I’m currently taking "Bachelor of Science in Information Technology" at [University of St. La Salle](https://www.usls.edu.ph/)
-  
-- 🎵 **I love listening to K-Pop songs.**
+
+<br>
+
+### Skills
+[![Skills](https://skillicons.dev/icons?i=androidstudio,cpp,css,dart,figma,flutter,html,java,js,mysql,php,sqlite)](https://skillicons.dev)
+
+<br>
+
+### Studying
+[![Studying](https://skillicons.dev/icons?i=firebase,laravel,mysql)](https://skillicons.dev)
+
+<br>
 
 <h3>Experiences</h3>
 
@@ -46,15 +55,21 @@
   - Class vice mayor of BSIT 2-A 2022-2023.
 <br>
 
+<h3>Education</h3>
+
+- Higher Education - University of St. La Salle | BSIT | 2021 - 2025
+
+- Upper Secondary Education - Liceo de La Salle USLS | STEM | 2019 - 2021
+
+- Lower Secondary Education - Doña Montserrat Lopez Memorial Highschool | ICT | 2015 - 2019
+<br>
+
+<h3>Github Stats</h3>
+
 <a href="https://github.com/rjseebs02/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjseebs02&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjseebs02&theme=vue-dark&show_icons=true&locale=en" alt="rjseebs02" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/rjseebs02/rjseebs02.github.io">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjseebs02&theme=vue-dark" alt="rjseebs02" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjseebs02&show_icons=true&locale=en&layout=compact" alt="rjseebs02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjseebs02&show_icons=true&locale=en" alt="rjseebs02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjseebs02&" alt="rjseebs02" /></p>
