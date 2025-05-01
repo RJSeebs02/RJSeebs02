@@ -30,6 +30,12 @@
 
 <h3>Experiences</h3>
 
+- 💼 OJT Intern  |  iReply Back Office Services, Inc.  |  Jan 2025 - Apr 2025
+
+    - Acted as one of the software lead engineers of the intern developers group.
+    - Assisted in developing and improving the current HRIS of the company.
+<br>
+
 - 💰 Budget & Finance Commissioner  |  Information Technology Society (ITS) USLS  |  2024 - 2025
 
     - Helped manage the budget of the club especially during events throughout the school year.
