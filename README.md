@@ -2,20 +2,21 @@
   <img src="https://i.gifer.com/bJk.gif" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Romeo Seva III</h1>
-<h3 align="center">A passionate graduating BSIT Student from the University of St. La Salle</h3>
+<h1 align="center">Hi! I'm Romeo Seva III👋</h1>
+<h3 align="center">A passionate BSIT Degree Holder from the University of St. La Salle</h3>
 <h3 align="center">Get to know more about me below!</h3>
 
 <br><br>
 
-<h3>What I do</h3>
+<h3>About Me</h3>
 
-- 👨‍💻 Backend Developer at [Ibento Creatives](https://www.facebook.com/p/IBento-Creatives-61557638287578/)
+- 👨‍💻 Freelance Backend Developer at [Ibento Creatives](https://www.facebook.com/p/IBento-Creatives-61557638287578/)
 
 - 💻 I also do Frontend but I'm still learning how to be proficient with it
   
-- 📝 I’m currently taking "Bachelor of Science in Information Technology" at [University of St. La Salle](https://www.usls.edu.ph/)
+- 📝 "Bachelor of Science in Information Technology" graduate at [University of St. La Salle](https://www.usls.edu.ph/)
 
+- 🥈 Graduated as Magna Cum Laude
 <br>
 
 ### Skills
