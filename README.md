@@ -25,7 +25,7 @@
 <br>
 
 ### Studying
-[![Studying](https://skillicons.dev/icons?i=firebase,laravel)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=firebase,laravel,react)](https://skillicons.dev)
 
 <br>
 
