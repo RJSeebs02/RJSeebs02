@@ -10,9 +10,9 @@
 
 <h3>About Me</h3>
 
-- 👨‍💻 Full Stack Web Developer at [Ibento Creatives]
+- 👨‍💻 Full Stack Web Developer at JMV Support Inc.
 
-- 💻 I also do Frontend but I'm still learning how to be proficient with it
+- 💻 I'm currently learning Laravel + React
   
 - 📝 "Bachelor of Science in Information Technology" graduate at [University of St. La Salle](https://www.usls.edu.ph/)
 
