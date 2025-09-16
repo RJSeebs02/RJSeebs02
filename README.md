@@ -88,6 +88,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjseebs02&theme=vue-dark&show_icons=true&locale=en" alt="rjseebs02" />
 </a>
 <a href="https://github.com/rjseebs02/rjseebs02.github.io">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjseebs02&theme=vue-dark" alt="rjseebs02" />
+  <img src="https://streak-stats.demolab.com/?user=rjseebs02&theme=vue-dark" alt="rjseebs02" />
 </a>
+
 
