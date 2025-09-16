@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 
-- 👨‍💻 Freelance Backend Developer at [Ibento Creatives](https://www.facebook.com/p/IBento-Creatives-61557638287578/)
+- 👨‍💻 Full Stack Web Developer at [Ibento Creatives]
 
 - 💻 I also do Frontend but I'm still learning how to be proficient with it
   
