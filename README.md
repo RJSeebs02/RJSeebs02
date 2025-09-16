@@ -31,10 +31,21 @@
 
 <h3>Experiences</h3>
 
+- 💼 Full Stack Web Developer  |  JMV Support Inc.  |  Jul 2025 - Present
+
+    - Pioneered the development of an All-in-One Virtual Staffing & Communication Platform to ensure a better staff and clients productivity and work efficiency.
+    - Assisted in developing and improving the current HRIS of the company.
+<br>
+
 - 💼 OJT Intern  |  iReply Back Office Services, Inc.  |  Jan 2025 - Apr 2025
 
     - Acted as one of the software lead engineers of the intern developers group.
     - Assisted in developing and improving the current HRIS of the company.
+<br>
+
+- 💼 Freelance Backend Developer  |  iBENTO CREATIVES  |  Jun 2024 - Sept 2024
+
+    - Boosted sales by 10% for a small bakery by developing a public viewing website for their business.
 <br>
 
 - 💰 Budget & Finance Commissioner  |  Information Technology Society (ITS) USLS  |  2024 - 2025
